@@ -35,7 +35,7 @@
         "nopt": "*",
         "colors":"*",
         "express":"*",
-        "yui": "*",
+        "yui": "3.6.x",
         "JSV": "*",
         "log4js": "*",
         "clone": "*",
